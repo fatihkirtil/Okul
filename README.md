@@ -1,4 +1,1 @@
-# Okul
-# Okul
-# Okul
-# Okul
+# OkuL
